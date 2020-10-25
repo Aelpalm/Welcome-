@@ -1,0 +1,3 @@
+contributors = ["Aelpalm devs"]
+
+print(contributors)
